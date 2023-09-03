@@ -8,4 +8,4 @@ Let me introduce myself.....
 - 🤔 I’m looking for help with Control System
 - 💬 Ask me about Matlab and Simulink
 - 📫 How to reach me: You can reach me through [LinkedIn](https://www.linkedin.com/in/lipun-kumar-naik-78356b20b/)
-- ⚡ Intrests: Playing Chess, Gardening
+- ⚡ Intrests: Playing Chess, Exploring different AI tools
